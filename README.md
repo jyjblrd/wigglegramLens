@@ -1,5 +1,5 @@
 # wigglegramLens
-A 3D printed lens to create film wigglegrams on any camera
+A 3D printed lens to create film wigglegrams on a Canon FD mount camera (.step files included so you can adapt it for any camera)
 
 Read about this on my blog post: [https://joshuabird.com/blog/post/3d-printed-wigglegram-lens](https://joshuabird.com/blog/post/3d-printed-wigglegram-lens)
 
